@@ -1,4 +1,4 @@
-# My AWS Cloud Portfolio 🚀
+# My AWS Cloud Journey Portfolio 🚀
 
 Welcome to my AWS projects repository! This is a living portfolio that documents my ongoing journey in cloud computing and Amazon Web Services. As I continue to learn and build, I'll be adding new projects and improving existing ones.
 
