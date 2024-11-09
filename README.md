@@ -8,6 +8,8 @@ This repository serves as both a portfolio and a documentation of my cloud learn
 
 ## 🌱 Current Projects
 
+- Netflix Data Analysis using AWS QuickSight
+
 *This section will grow as I continue my cloud journey*
 
 
@@ -59,5 +61,5 @@ I'm always eager to learn from others and share experiences! Feel free to:
 - Connect for cloud-related discussions
 
 ---
-*Last Updated: 03/11/2024*  
+*Last Updated: 09/11/2024*  
 *This portfolio is actively maintained and regularly updated as I progress in my AWS cloud journey.*
